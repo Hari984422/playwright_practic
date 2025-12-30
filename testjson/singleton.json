@@ -1,0 +1,17 @@
+[
+    {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+},
+{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "stud42ent",
+    "pwd" : "234"
+},
+{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+}
+]

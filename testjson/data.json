@@ -1,0 +1,424 @@
+{
+    "valid":[
+         {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}, {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "student",
+    "pwd" : "Password123"
+}
+    ],
+    "invalid":[
+        {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+},{
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "uname" : "st34udent",
+    "pwd" : "443"
+}
+    ]
+}
