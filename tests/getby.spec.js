@@ -1,32 +1,32 @@
 import {test} from "@playwright/test";
 
 test("get by",async ({page})=>{
-//    await page.goto("https://demo.nopcommerce.com/login")
+   await page.goto("https://demo.nopcommerce.com/login")
 
 //    getByLabel()
 //    Selects the particular input that matches the label Text on display
 // can use exact option to make sure the label matches exactly or else can pass it as false
-//    await page.getByLabel("Email:",{exact:true}).fill("America")
+   await page.getByLabel("Email:",{exact:true}).fill("America")
 
 //    getByPlaceholder()
 //    Selects the particular input that matches the plceholder Text
 // can use exact option to make sure the label matches exactly or else can pass it as false
-// await page.getByPlaceholder("Search sto",{exact: false}).fill("Hi")
+await page.getByPlaceholder("Search sto",{exact: false}).fill("Hi")
 
 // getByText()
-// await page.getByText("Electronics").first().click(); //selects the first occurence of text in the page
-// await page.getByText("Electronics").last().click(); //selects the last occurence of text in the page
-// await page.getByText("Electronics").nth(3).click(); //selects the nth occurence of text in the page
+await page.getByText("Electronics").first().click(); //selects the first occurence of text in the page
+await page.getByText("Electronics").last().click(); //selects the last occurence of text in the page
+await page.getByText("Electronics").nth(3).click(); //selects the nth occurence of text in the page
 
 // getByAltText
-// await page.getByAltText("nopCommerce demo store",{exact : true}).click();
+await page.getByAltText("nopCommerce demo store",{exact : true}).click();
 
 
 // getByTitle
-// await page.getByTitle("Assert value",{exact : true}).first().click();
+await page.getByTitle("Assert value",{exact : true}).first().click();
 
 //getByRole(role,operation)
-// await page.goto('https://demo.nopcommerce.com/electronics')
+await page.goto('https://demo.nopcommerce.com/electronics')
 
 // await page.getByRole("link",{name : " Digital Downloads ",exact : false}).first().click(); 
 //  //locates the element using it ARIA Roles directly see what the element role is and selects the element
